@@ -130,3 +130,5 @@ export default class CarouselExample extends Component {
 ----
 
 More on react-native here: https://facebook.github.io/react-native/docs/getting-started.html
+
+Credits to https://github.com/phil-r/react-native-looped-carousel
